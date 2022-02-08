@@ -13,7 +13,7 @@ viii. Medal: Type of medal won (ties are indicated in parentheses)
 (1) Download “olympic_athletes-wrangled.csv”. Spend some time understanding the dataset and perform necessary data cleaning.
 See lines 18-23
 
-(2) Find the number of gold medals for each host country since 2000. Hint: either using data frame or table is acceptable.
+(2) Find the number of gold medals for each host country since 2000. Using data frame or table is acceptable.
 See lines 26-55
 
 (3) See lines 58-94
